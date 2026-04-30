@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # COMP5318 Assignment 2 Report Draft
 
 ## Data
